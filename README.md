@@ -8,5 +8,5 @@ Performed Gridsearch over parameters and cross-validation.
 Test accuracy:
 SVM - 78%
 Random Forest - 75%
-Embednet - 85%
+Embednet - 86%
 
